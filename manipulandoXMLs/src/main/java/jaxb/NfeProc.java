@@ -27,8 +27,6 @@ public class NfeProc {
     public NfeProc(){
     }
 
-    //TODO: Remove all unecessary comments
-
 
     @Override
     public String toString() {
