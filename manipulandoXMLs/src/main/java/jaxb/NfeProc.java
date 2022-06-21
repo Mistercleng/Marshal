@@ -28,9 +28,7 @@ public class NfeProc {
     }
 
     //TODO: Remove all unecessary comments
-    //public NfeProc(NFe nFe){
-    //    this.nFe = nFe;
-    //}
+
 
     @Override
     public String toString() {
